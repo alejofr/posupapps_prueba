@@ -1,0 +1,13 @@
+html,
+body {
+  height: 100%;
+}
+
+.form-publication {
+  max-width: 480px;
+  padding: 1rem;
+}
+
+.form-publication .form-floating:focus-within {
+  z-index: 2;
+}

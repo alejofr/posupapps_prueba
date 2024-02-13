@@ -1,0 +1,8 @@
+{
+    "name": "prueba/php",
+    "description": "prueba-php implementando una aquitectura MVC y en la gestion de database con eloquent",
+    "type": "project",
+    "require": {
+        "illuminate/database": "^10.43"
+    }
+}
