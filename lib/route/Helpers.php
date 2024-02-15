@@ -2,7 +2,7 @@
 
 namespace Lib\Route;
 
-trait helpers{
+trait Helpers{
     
     /**
      *@param mixed $callback

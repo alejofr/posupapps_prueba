@@ -2,10 +2,10 @@
 
 namespace Lib\Route;
 
-use Lib\Route\helpers;
+use Lib\Route\Helpers;
 
 class Route{
-    use helpers;
+    use Helpers;
     private static $routes;
 
 
